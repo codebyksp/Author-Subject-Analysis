@@ -1,0 +1,64 @@
+{
+    "numFound": 2,
+    "start": 0,
+    "numFoundExact": true,
+    "docs": [
+        {
+            "alternate_names": [
+                "Khaled (afghanistan) Hosseini",
+                "Hosseini Khaled",
+                "Hosseini Khaled,Hosseini"
+            ],
+            "birth_date": "1965",
+            "key": "OL1412764A",
+            "name": "Khaled Hosseini",
+            "top_subjects": [
+                "Fiction",
+                "Families",
+                "Afghanistan, fiction",
+                "Afghanistan",
+                "New York Times bestseller",
+                "Interpersonal relations",
+                "Friendship, fiction",
+                "Loss (Psychology)",
+                "Intergenerational relations",
+                "Community life"
+            ],
+            "top_work": "The Kite Runner",
+            "type": "author",
+            "work_count": 50,
+            "ratings_average": 4.230483,
+            "ratings_sortable": 4.1003103,
+            "ratings_count": 269,
+            "ratings_count_1": 10,
+            "ratings_count_2": 13,
+            "ratings_count_3": 29,
+            "ratings_count_4": 70,
+            "ratings_count_5": 147,
+            "want_to_read_count": 4528,
+            "already_read_count": 452,
+            "currently_reading_count": 349,
+            "readinglog_count": 5329,
+            "_version_": 1844464094927650816
+        },
+        {
+            "key": "OL15847835A",
+            "name": "Khaled Hosseini",
+            "type": "author",
+            "work_count": 0,
+            "ratings_average": 0.0,
+            "ratings_sortable": 2.047372,
+            "ratings_count": 0,
+            "ratings_count_1": 0,
+            "ratings_count_2": 0,
+            "ratings_count_3": 0,
+            "ratings_count_4": 0,
+            "ratings_count_5": 0,
+            "want_to_read_count": 0,
+            "already_read_count": 0,
+            "currently_reading_count": 0,
+            "readinglog_count": 0,
+            "_version_": 1844928662541959168
+        }
+    ]
+}
